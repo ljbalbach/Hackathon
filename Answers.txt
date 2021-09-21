@@ -1,0 +1,21 @@
+A: Annabell
+B: Chloe
+C: Adriana
+D: Cleopatra
+A: He was mugged as he pushed the car into the parking lot
+B: He was playing a board game
+C: His pockets were empty
+D: There was a text alert
+A: 99999999
+B: 100000000
+C: 3749875
+D: 1
+A: Struck by lightning
+B: Poisoned
+C: Drowned
+D: They aren't human
+A: Stop imagining you are in that room
+B: Die
+C: Wait
+D: Dig a hole in the ground with your bare hands
+
